@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL and Python**
 
-- 📝 I regularly write articles on [https://alemayehudesta.com/](https://alemayehudesta.com/)
+- 📝 I write articles on [https://alemayehudesta.com/](https://alemayehudesta.com/)
 
 - 📫 How to reach me **alemayehu8363@gmail.com**
 
