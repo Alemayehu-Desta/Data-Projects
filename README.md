@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alemayehu-desta&label=Profile%20views&color=0e75b6&style=flat" alt="alemayehu-desta" /> </p>
 
-- 🌱 I’m currently learning **SQL and Python**
+- 🌱 **Tableau, SQL and Python**
 
 - 📝 I write articles on [https://alemayehudesta.com/](https://alemayehudesta.com/)
 
