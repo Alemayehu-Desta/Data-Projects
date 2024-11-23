@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alemayehu (ALEX) Desta</h1>
-<h3 align="center">Data Engineer, Data Analyst, & Data Science. I am curently part of
-  MIT Emerging Talent </h3>
+<h3 align="center">Data Engineer, Data Analyst, & Data Science </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alemayehu-desta&label=Profile%20views&color=0e75b6&style=flat" alt="alemayehu-desta" /> </p>
 
