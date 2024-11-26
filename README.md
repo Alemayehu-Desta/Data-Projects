@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alemayehu (ALEX) Desta</h1>
-<h3 align="center">Data Engineer, Data Analyst, & Data Science </h3>
+<h3 align="center">🎓 Data Analyst and Aspiring Data Scientist | Part of the 6th Cohort, MIT Emerging Talent Foundation Program</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alemayehu-desta&label=Profile%20views&color=0e75b6&style=flat" alt="alemayehu-desta" /> </p>
 
-- 🌱 **Python, SQL,R, MySQL, PostgreSQL, and Tableau**
-
-- 📝 I write articles on [https://alemayehudesta.com/](https://alemayehudesta.com/)
-
+- 🌱 **Python, SQL,R, MySQL, PostgreSQL, IBM Cognos and Certified Tableau Desktop Specialist**
+- 📝 Visit my website [https://alemayehudesta.com/](https://alemayehudesta.com/)
+- 📝 My project portifolio https://github.com/Alemayehu-Desta/Alemayehu-Desta.github.io
 - 📫 How to reach me **alemayehu8363@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
